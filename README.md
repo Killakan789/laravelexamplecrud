@@ -1,2 +1,2 @@
 # laravelexamplecrud
-laravel application with docker  (CRUD system)
+laravel application with docker docker-compose and npm   (CRUD system)
